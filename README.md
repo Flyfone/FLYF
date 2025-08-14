@@ -2,7 +2,7 @@
 
 
 # FLYF
-FLYF is the native token of the upcoming Flyfone GameFi ecosystem — a mobile game in development designed to inspire movement, connection, and global change by rewarding real-world action with digital value.
+FLYF is the native token and funding channel of the upcoming Flyfone GameFi ecosystem — a mobile game in development designed to inspire movement, connection, and global change by rewarding real-world action with digital value.
 
 ## Token Information
 - **Nane:** Flyfone Token
