@@ -1,4 +1,4 @@
-![Flyfone Logo](https://img1.wsimg.com/isteam/ip/a824923a-c06b-4bb0-b947-2ef8a4c568e5/52F833D1-0BE7-4A21-92C9-55A88964C17A.png/:/rs=w:140,h:140,cg:true,m/cr=w:140,h:140/qt=q:95)
+![Flyfone Logo]
 
 
 # FLYF
