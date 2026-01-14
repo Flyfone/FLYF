@@ -1,13 +1,21 @@
+<p align="center">
+  <img src="assets/logo/flyf-logo.png" alt="Flyfone Token Logo" width="200"/>
+</p>
+## 🎨 Logo & Branding
 
+The official **Flyfone Token (FLYF)** logo represents energy, motion, and community — core values of the Flyfone ecosystem.
 
+### Logo Files
+Official logo assets are available in the repository:
 
-# FLYF
-FLYF is the native token and funding channel of the upcoming Flyfone GameFi ecosystem — a mobile game in development designed to inspire movement, connection, and global change by rewarding real-world action with digital value.
+- `/assets/logo/flyf-logo.svg`
+- `/assets/logo/flyf-logo.png`
+- `/assets/logo/flyf-logo-transparent.png`
 
-## Token Information
-- **Nane:** Flyfone Token
-- **Symbol:** FLYF
-- **Decimals:** 9
-- **Total Supply:** 10,000,000,000
-- **Mint Address:** 7cnoy1UgbiLSm9kDbKR8yKv1hUtvKE92L4iUZSZ4ze6a
-- **Website:** https://www.flyfoneapp.com
+### Usage Guidelines
+- ✔️ Allowed for community, wallet, exchange, and informational use
+- ❌ Not permitted for impersonation, scams, or misleading financial promotion
+- ❌ No modification that alters brand identity without permission
+
+For partnership or branding requests, please refer to the official website.
+
