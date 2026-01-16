@@ -1,7 +1,8 @@
-![FLYF Logo](flyf.png)
+# Flyfone Token (FLYF)
 
-
----
+<p align="center">
+  <img src="flyf.png" alt="FLYF Token Logo" width="200"/>
+</p>
 
 ## 🔒 Security & Transparency
 
