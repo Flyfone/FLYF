@@ -1,4 +1,5 @@
-- **Logo File:** `flyf.png`
+![FLYF Logo](flyf.png)
+
 
 ---
 
